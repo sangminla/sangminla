@@ -1,17 +1,37 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Sangmin!</h1>
 
-### 👋 Hi there! I'm a frontend developer & student.
+<p align="center">
+  🎓 Senior at <strong>Yeungnam University</strong><br>
+  📘 Majoring in <strong>Mathematics</strong> & Double majoring in <strong>Computer Science</strong><br>
+  💼 Preparing for the <strong>CPA exam</strong> while studying <strong>frontend development</strong>
+</p>
 
-I'm currently a senior at Yeungnam University, majoring in Mathematics and double majoring in Computer Science.  
-While preparing for the CPA (Certified Public Accountant) exam, I'm also developing my frontend skills.
+---
 
-🔧 I'm mainly studying **C** and **Java**, and I'm always excited to learn new languages and build useful programs.
+### 💻 About Me
+- 🧑‍💻 Frontend-focused student developer
+- 📚 Studying: **C**, **Java**, and always eager to explore new programming languages
+- 🛠️ Building useful and meaningful projects for both real-world and academic use
 
-### 🚀 Current Projects
-- 🎓 **Graduation Project**: Developing an AI system using **OpenCV** that highlights basketball players' best moments.
-- 📚 **Math Learning Web App**: Creating a website to help students study math more effectively and conveniently.
+---
 
-Let's connect and build something amazing together!
+### 🚀 Ongoing Projects
+
+- 🏀 [**Basketball Highlight AI Project (Graduation Project)**](https://github.com/seoseongmin1/project3)  
+  Using **OpenCV** to generate highlight videos of basketball players with AI assistance
+
+- 📐 [**MCW - Math Class Web (Self Project)**](https://github.com/sangminla/MCW)  
+  A web application to help students study math more easily and effectively
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sangminla&show_icons=true&theme=tokyonight" />
+</p>
+
+---
 
 <h2>기술 스택</h2>
 <p>
