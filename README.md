@@ -10,18 +10,21 @@
 
 ### 💻 About Me
 - 🧑‍💻 Frontend-focused student developer
-- 📚 Studying: **C**, **Java**, and always eager to explore new programming languages
-- 🛠️ Building useful and meaningful projects for both real-world and academic use
+- 📚 Studying: **C**, **Java**, and exploring new programming languages
+- ⚙️ Interested in web development, AI, and real-world software applications
 
 ---
 
-### 🚀 Ongoing Projects
+### 🚀 Current Projects
 
-- 🏀 [**Basketball Highlight AI Project (Graduation Project)**](https://github.com/seoseongmin1/project3)  
-  Using **OpenCV** to generate highlight videos of basketball players with AI assistance
+- 🗺️ [**Travel Recommendation Website**](https://github.com/seoseongmin1/project3)  
+  A site that recommends travel destinations based on user preferences and interests
 
-- 📐 [**MCW - Math Class Web (Self Project)**](https://github.com/sangminla/MCW)  
-  A web application to help students study math more easily and effectively
+- 🏀 **AI Basketball Highlight Project (Graduation Project)**  
+  Currently developing a system using **OpenCV** to automatically generate basketball highlight clips
+
+- 📐 [**MCW - Math Class Web**](https://github.com/sangminla/MCW)  
+  A math study web app aimed at helping students learn math more efficiently and enjoyably
 
 ---
 
