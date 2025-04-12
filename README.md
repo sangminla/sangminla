@@ -1,11 +1,17 @@
 ## Hi there 👋
 
-<h1>안녕하세요, 웹 개발자입니다!</h1>
-<p>
-    7년간 웹 개발 분야에서 경험을 쌓으며, 고품질의 웹사이트와 애플리케이션을 제작해 왔습니다. 
-    깔끔하고 효율적인 코드를 작성하는 것을 좋아하며, 프로젝트와 블로그, 코딩 챌린지를 통해 
-    꾸준히 성장하고 있습니다.
-</p>
+### 👋 Hi there! I'm a frontend developer & student.
+
+I'm currently a senior at Yeungnam University, majoring in Mathematics and double majoring in Computer Science.  
+While preparing for the CPA (Certified Public Accountant) exam, I'm also developing my frontend skills.
+
+🔧 I'm mainly studying **C** and **Java**, and I'm always excited to learn new languages and build useful programs.
+
+### 🚀 Current Projects
+- 🎓 **Graduation Project**: Developing an AI system using **OpenCV** that highlights basketball players' best moments.
+- 📚 **Math Learning Web App**: Creating a website to help students study math more effectively and conveniently.
+
+Let's connect and build something amazing together!
 
 <h2>기술 스택</h2>
 <p>
@@ -33,16 +39,6 @@
     <img src="https://img.shields.io/badge/CI/CD-00A3E0?style=flat-square&logo=ci&logoColor=white"/>&nbsp
 </p>
 
-<h2>프로젝트</h2>
-<ul style="list-style: none; padding: 0;">
-    <li><a href="https://github.com/ZeroBin-dev/MYMSG_BE">프로젝트 1 - 카카오톡 카피코딩</a></li>
-    <li><a href="https://github.com/ZeroBin-dev/CusCenBot">프로젝트 2 - 고객센터 챗봇</a></li>
-    <li><a href="https://github.com/ZeroBin-dev/YoutubePlayerWithKS">프로젝트 3 - 유튜브 플레이어</a></li>
-</ul>
-
-<p>
-    더 많은 작업물을 보시려면 <a href="https://github.com/ZeroBin-dev">GitHub</a>와  
-    <a href="https://zerobin-dev.tistory.com/">티스토리 블로그</a>를 통해 확인하실 수 있습니다.<!--
 **sangminla/sangminla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
